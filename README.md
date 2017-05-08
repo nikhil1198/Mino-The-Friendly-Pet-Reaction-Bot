@@ -30,5 +30,7 @@ Software:
 
 # Usage:
 
-First of all you need a Watson Developer Cloud account and key to access the Alchemy API that provides us with the emotional response for any kind of sentences.
+First of all you need a Watson Developer Cloud account and key to access the Alchemy API that provides us with the emotional response for any kind of sentences. The <b>testAL.py</b> file is the python script which is used to send sentences to the Alchemy API online and get values of 5 types of emotions : Happy, Sad, Angry, Fear and Disgust. The maximum value amongst these values is considered as the emotion of the sentence.
+
+
 
