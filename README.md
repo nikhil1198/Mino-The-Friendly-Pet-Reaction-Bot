@@ -1,4 +1,4 @@
-# Mino-The-Friendly-Pet-Bot
+# Mino-The-Friendly-Pet-Reaction-Bot
 
 Mino is a friendly pet bot for home automation that responds to you via facial emotions! 
 
