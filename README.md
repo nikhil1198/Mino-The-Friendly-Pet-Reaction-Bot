@@ -8,25 +8,25 @@ Mino is a friendly pet robot for indoor home automation and security. The most s
 
 # Pre-Requisites:
 
-Hardware:
+* Hardware:
 
-•	Raspberry Pi
-•	ESP8266 wifi module
-•	2 Servo motors
-•	2 DC motors
-•	Motor Driver
-•	LEDs
-•	Speaker
-•	Jumper Wires
-•	Voltage Regulators 
-•	Potentiometer
+  *	Raspberry Pi
+  *	ESP8266 wifi module
+  *	2 Servo motors
+  *	2 DC motors
+  *	Motor Driver
+  *	LEDs
+  *	Speaker
+  *	Jumper Wires
+  *	Voltage Regulators 
+  *	Potentiometer
 
-Software:
+* Software:
 
-•	Android Studio
-•	Raspbian OS
-•	Arduino 
-•	Python with Watson Developer Cloud, Pygame, Bottle libraries
+  *	Android Studio
+  *	Raspbian OS
+  *	Arduino 
+  *	Python with Watson Developer Cloud, Pygame, Bottle libraries
 
 # Usage:
 
